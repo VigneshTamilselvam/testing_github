@@ -1,0 +1,2 @@
+# testing_github
+This repository is created for the sole purpose of learning all the functionalities in github.
